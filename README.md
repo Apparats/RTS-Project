@@ -3,13 +3,15 @@
 > **Browser-based post-apocalyptic survival RTS played on real-world city maps.**  
 > Lead a group of survivors, fortify shelters in real urban buildings, scavenge by daylight, and endure massive nocturnal hordes.
 
-https://github.com/user-attachments/assets/e320f325-b424-4fbc-a5b7-15130958b8d0
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e320f325-b424-4fbc-a5b7-15130958b8d0" alt="RTS-Project Preview" width="100%" />
+</p>
 
 ---
 
 ## 📖 Overview
 
-**RTS-Project** is a real-time strategy (RTS) survival game built for web browsers. Players take command of a group of survivors navigating the collapse of civilization within detailed real-world urban layouts. 
+**RTS-Project** is a real-time strategy (RTS) survival game built for modern web browsers. Players take command of a group of survivors navigating the collapse of civilization within detailed real-world urban layouts. 
 
 The game combines strategic base management, tactical squad movement, and an in-depth human condition simulation. While the game's engine is designed to support diverse global cities, its current environments are geographically modeled after urban areas in Chile, featuring **Santiago Downtown** and the riverfront city of **Valdivia**.
 
@@ -28,8 +30,10 @@ The project is engineered with a **strictly decoupled, deterministic architectur
 - **Current Environments**:
   - **Santiago Downtown**: Dense city blocks, avenues, historic squares, bridges, and underground metro network entrances.
   - **Valdivia**: Riverfront layout with bridges, waterways, and diverse urban density.
- 
-    https://github.com/user-attachments/assets/ea04c564-1817-416c-b6e2-c6c395d236c4
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea04c564-1817-416c-b6e2-c6c395d236c4" alt="Urban Environments Preview" width="100%" />
+</p>
 
 ### 👥 Detailed Survivor Anatomy & Simulation
 - **The Leader**: Your primary playable character and settlement commander. Features distinct origin backgrounds, an active skill tree (Command, Survival, Management), and squad tactical auras.
@@ -46,7 +50,9 @@ The project is engineered with a **strictly decoupled, deterministic architectur
 - Two-dimensional spatial item grids for survivors, vehicle trunks, and shelter stockpiles.
 - Items occupy variable grid cells based on physical dimensions, supported by weight limits, pocket slots, and wearable equipment (backpacks, protective gear, flashlights).
 
-https://github.com/user-attachments/assets/2c79c11f-d057-470e-8c43-cfe3e7524f77
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c79c11f-d057-470e-8c43-cfe3e7524f77" alt="Spatial Grid Inventory Preview" width="100%" />
+</p>
 
 ### 🧟 Massive Hordes & Reactive Threat Director
 - **GPU-Accelerated Crowds**: Hundreds of active infected rendered on screen via instancing and Vertex Animation Textures (VAT) without CPU skeletal overhead.
@@ -58,7 +64,9 @@ https://github.com/user-attachments/assets/2c79c11f-d057-470e-8c43-cfe3e7524f77
 - **Perimeter Defense**: Construct barricades, wooden and reinforced walls, automated security gates, barbed wire, rooftop watchtowers, and boarding for doors and windows.
 - **Tactical Field Crafting**: Produce emergency items on the go, from improvised bandages and torches to quick field barricades.
 
- https://github.com/user-attachments/assets/89c599d1-d734-4c63-b509-a051283f52e0
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89c599d1-d734-4c63-b509-a051283f52e0" alt="Base Construction and Fortifications Preview" width="100%" />
+</p>
 
 ### 📜 Narrative Events & Tactical Choices
 - **Timed Contextual Encounters**: Decision cards triggered during building sweeps or street encounters, with outcomes determined by survivor traits, backgrounds, and skill checks.
